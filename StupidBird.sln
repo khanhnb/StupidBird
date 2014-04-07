@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidBird", "StupidBird\StupidBird\StupidBird.csproj", "{24E04F64-AF21-454E-84CE-E4E9CC1BFB32}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "StupidBirdContent", "StupidBird\StupidBirdContent\StupidBirdContent.contentproj", "{12A6F8C7-81C4-49D5-9557-C2502F4C58C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E04F64-AF21-454E-84CE-E4E9CC1BFB32}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{24E04F64-AF21-454E-84CE-E4E9CC1BFB32}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{24E04F64-AF21-454E-84CE-E4E9CC1BFB32}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{24E04F64-AF21-454E-84CE-E4E9CC1BFB32}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{24E04F64-AF21-454E-84CE-E4E9CC1BFB32}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{24E04F64-AF21-454E-84CE-E4E9CC1BFB32}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{12A6F8C7-81C4-49D5-9557-C2502F4C58C3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{12A6F8C7-81C4-49D5-9557-C2502F4C58C3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
