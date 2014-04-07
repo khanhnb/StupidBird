@@ -1,7 +1,7 @@
 StupidBird
 =============
-Bài tập lớn môn phát triển ứng dụng cho thiết bị di động:
+Mobile Programming's Project:
 
 * Flappy Bird Clone
-* Sử dụng Framework XNA
+* Using XNA Framework
 * Windows Phone Game
