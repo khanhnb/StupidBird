@@ -1,7 +1,7 @@
 StupidBird
 =============
-B�i t?p l?n m�n Ph�t tri?n ?ng d?ng cho thi?t b? di d?ng:
+Bài tập lớn môn phát triển ứng dụng cho thiết bị di động:
 
 * Flappy Bird Clone
-* S? d?ng Framework XNA
+* Sử dụng Framework XNA
 * Windows Phone Game
